@@ -33,19 +33,19 @@ To learn more about Next.js, take a look at the following resources:
 ## Screenshots
 **Home Screen**
 
-<img src="https://github.com/differenz-system/Addressbook.NextJS/blob/master/public/screenshots/home.png"> 
+<img src="https://github.com/differenz-system/Addressbook.NextJS/blob/main/public/screenshots/home.png"> 
 
 **Login Screen**
 
-<img src="https://github.com/differenz-system/Addressbook.NextJS/blob/master/public/screenshots/login.png"> 
+<img src="https://github.com/differenz-system/Addressbook.NextJS/blob/main/public/screenshots/login.png"> 
 
 **Add/list Contact**
 
-<img src="https://github.com/differenz-system/Addressbook.NextJS/blob/master/public/screenshots/contact_list.png"> 
+<img src="https://github.com/differenz-system/Addressbook.NextJS/blob/main/public/screenshots/contact_list.png"> 
 
 **Update Contact**
 
-<img src="https://github.com/differenz-system/Addressbook.NextJS/blob/master/public/screenshots/contact_list_update.png"> 
+<img src="https://github.com/differenz-system/Addressbook.NextJS/blob/main/public/screenshots/contact_list_update.png"> 
 
 
 ## Support
